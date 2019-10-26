@@ -1,1 +1,21 @@
 /* Empty. Add your own CSS if you like */
+.conteiner{
+	padding: 15px;
+	background-color: #0C1C2B;
+}
+.imag{ 
+	width: 100px;
+	height: 100px;
+	padding: 0px;
+	border-radius: 100%;
+	border: 2px solid #9ADA0F;
+}
+.textname{
+	color: #FAFFF3;
+	font-family: 'ZCOOL XiaoWei', serif;
+	font-size: 15px;
+}
+
+/*
+   verde : #9ADA0F blanco: #FAFFF3 gris: #14181B azul: #0C1C2B gris claro: #768685
+*/
