@@ -1,5 +1,6 @@
 /* Empty. Add your own CSS if you like */
-.conteiner{
+/*conteiner uno de foto de usuario*/
+.container{
 	padding: 15px;
 	background-color: #0C1C2B;
 }
@@ -7,6 +8,8 @@
 	width: 100px;
 	height: 100px;
 	padding: 0px;
+	display: block;
+	margin: auto;
 	border-radius: 100%;
 	border: 2px solid #9ADA0F;
 }
@@ -14,8 +17,43 @@
 	color: #FAFFF3;
 	font-family: 'ZCOOL XiaoWei', serif;
 	font-size: 15px;
+	text-align: center;
 }
-
+.tname{
+	color: #FAFFF3;
+	font-family: ;
+	font-size: 10px;
+	text-align: center;	
+}
+/*conteiner dos cuerpo de perfil*/
+/*.color{
+	padding: 15%;
+	background-color: #768685;
+}
+*/
+ion-content{
+	background-color: #768685;
+}
+.spice{
+	padding: 20px;
+	width: 100%;
+	text-align: center;	
+}
+.fab{
+	font-size: 30px;
+	padding: 5px;	
+	color: #FAFFF3;
+	display: block;
+	margin: auto;
+}
+input[type="text"]{
+	width: 100%;
+	padding: 5px;
+	margin: 8px 0;
+  	box-sizing: border-box;
+  	border: none;
+  	border-bottom: 2px solid #0C1C2B;	
+}
 /*
-   verde : #9ADA0F blanco: #FAFFF3 gris: #14181B azul: #0C1C2B gris claro: #768685
+   verde : #9ADA0F blanco: #FAFFF3 gris: #14181B azul: #0C1C2B gris claro: #768685 =fondo dos
 */
