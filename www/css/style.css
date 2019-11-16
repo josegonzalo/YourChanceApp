@@ -1,6 +1,6 @@
 /* Empty. Add your own CSS if you like */
 /*conteiner uno de foto de usuario*/
-.container{
+.pod{
 	padding: 15px;
 	background-color: #0C1C2B;
 }
@@ -21,7 +21,7 @@
 }
 .tname{
 	color: #FAFFF3;
-	font-family: ;
+	font-family: 'ZCOOL XiaoWei', serif;
 	font-size: 10px;
 	text-align: center;	
 }
@@ -32,28 +32,89 @@
 }
 */
 ion-content{
-	background-color: #768685;
+	background-color: #0C1C2B;
 }
 .spice{
+	background-color: #768685;
 	padding: 20px;
 	width: 100%;
 	text-align: center;	
 }
 .fab{
-	font-size: 30px;
-	padding: 5px;	
+	font-size: 40px;
+	padding: 5px;
+	height: 0px;
 	color: #FAFFF3;
 	display: block;
 	margin: auto;
 }
-input[type="text"]{
-	width: 100%;
-	padding: 5px;
-	margin: 8px 0;
-  	box-sizing: border-box;
-  	border: none;
-  	border-bottom: 2px solid #0C1C2B;	
+.text{
+	padding: 4px;
+	font-size: 16px;
+	width: 100px;
+	text-align: left;
+	font-family: 'Source Sans Pro', sans-serif;
 }
+.far{
+	font-size: 40px;
+	padding: 5px;
+	height: 0px;
+	color: #FAFFF3;
+	display: block;
+	margin: auto;
+}
+.textHA{
+	text-align: left;
+	font-size: 20px;
+	font-family: 'ZCOOL XiaoWei', serif; 		
+}
+textarea{
+	width: 300px;
+	height: 80px;
+	border: 1px solid #9ADA0F;
+}
+.pot{
+	background-color: #0C1C2B;
+	padding: 20px;
+	width: 100%;
+	text-align: center;	
+}
+.textTips{
+	text-align: left;
+	color: #FAFFF3;
+	font-family: 'ZCOOL XiaoWei', serif;
+	font-size: 20px; 
+}
+
+/* input in fuction 
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #0C1C2B;
+  background-color: #768685;
+}
+
+ button in fuction 
+.button{
+	text-decoration: none;
+    padding: 0px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 200px;
+    font-size: 15px;
+    color: #FAFFF3;
+    background-color: #14181B;
+}
+.button:hover{
+	color: #ffff ;
+	background-color: #001a33;
+	text-decoration: none;
+}*/
 /*
    verde : #9ADA0F blanco: #FAFFF3 gris: #14181B azul: #0C1C2B gris claro: #768685 =fondo dos
 */
