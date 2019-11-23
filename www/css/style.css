@@ -69,8 +69,10 @@ ion-content{
 	font-family: 'ZCOOL XiaoWei', serif; 		
 }
 textarea{
-	width: 300px;
+	width: 340px;
 	height: 80px;
+	padding: 5px;
+	padding-top: 5px;
 	border: 1px solid #9ADA0F;
 }
 .pot{
@@ -115,6 +117,7 @@ input[type=text] {
 	background-color: #001a33;
 	text-decoration: none;
 }*/
+.mySlides {display:none}
 /*
    verde : #9ADA0F blanco: #FAFFF3 gris: #14181B azul: #0C1C2B gris claro: #768685 =fondo dos
 */
